@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seoheroph.github.io/amrr-property-manage-1bb16/sitemap.xml
+Sitemap: https://amrr-property-manage-1bb16.pages.dev/sitemap.xml
